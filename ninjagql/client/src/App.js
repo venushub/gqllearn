@@ -6,7 +6,7 @@ import {ApolloProvider} from 'react-apollo'
 
 
 const client = new ApolloClient({
-  uri: 'http://localhost:4000/graphql'
+  uri: 'http://penguin.linux.test:4000/graphql'
 })
 
 
